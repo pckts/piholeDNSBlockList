@@ -1,0 +1,2 @@
+# piholeMassBlock
+Blocklist for pihole
